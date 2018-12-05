@@ -1,0 +1,70 @@
+@keyframes flyin {
+    from {opacity: 0.2; top: 12vw;}
+    to {opacity: 1; top: 4vw;}
+}
+.startinganimation {
+    position: fixed;
+    top: 4vw;
+    animation-name: flyin;
+    animation-duration: 1s;
+    left: 0;
+}
+a {
+    display: block;
+    height: 20vw;
+    width: 20vw;
+    word-wrap: break-word;
+    text-decoration: none;
+    color: black;
+    font-size: 3vw;
+    text-align: center;
+ 
+}
+a:hover, a:active {
+    display: block;
+    height: 20vw;
+    width: 20vw;
+    word-wrap: break-word;
+    text-decoration: none;
+    color: black;
+    font-size: 3vw;
+    text-align: center;
+}
+.text {
+    display: table-cell; 
+    vertical-align: middle; 
+    text-align: center;
+}
+.title {
+    display: block;
+    position: fixed;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, 24vw);
+    font-size: 20vw;
+    color: white;
+}
+body {
+    background-color: #330000;
+    position: fixed;
+}
+.snackDiv {
+    background-color: #ffff00;
+    position: fixed;
+    left: 4vw;
+}
+.delightDiv {
+    background-color: #009C59;
+    position: fixed;
+    left: 28vw;
+}
+.eveningDiv {
+    background-color: #ffaa00;
+    position: fixed;
+    left: 52vw;
+}
+.supriseDiv {
+    background-color: #7000c6;
+    position: fixed;
+    left: 76vw;
+}
