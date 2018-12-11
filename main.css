@@ -11,6 +11,8 @@
   border: none;
   outline: none;
   cursor: pointer;
+  width: 3vmin;
+  height: 3vmin;
 }
 @keyframes flyin {
     from {opacity: 0.2; top: 12vw;}
