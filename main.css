@@ -48,6 +48,7 @@ body {
     background-color: #330000;
 }
 .snackDiv {
+    float: left;
     background-color: #ffff00;
     position: relative;
     display: block;
@@ -56,6 +57,7 @@ body {
     padding: 0;
 }
 .delightDiv {
+    float: left;
     background-color: #009C59;
     position: relative;
     display: block;
@@ -64,6 +66,7 @@ body {
     padding: 0;
 }
 .eveningDiv {
+    float: left;
     background-color: #ffaa00;
     position: relative;
     display: block;
@@ -72,6 +75,7 @@ body {
     padding: 0;
 }
 .supriseDiv {
+    float: left;
     background-color: #7000c6;
     position: relative;
     display: block;
