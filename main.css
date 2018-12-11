@@ -11,7 +11,6 @@
 }
 .link {
     position: relative;
-    display: block;
     height: 20vw;
     width: 20vw;
     word-wrap: break-word;
@@ -23,7 +22,6 @@
 }
 .link:hover, .link:active {
     position: relative;
-    display: block;
     height: 20vw;
     width: 20vw;
     word-wrap: break-word;
@@ -52,24 +50,24 @@ body {
 .snackDiv {
     background-color: #ffff00;
     position: relative;
+    display: inline-block;
     left: 4vw;
-    top: 0;
 }
 .delightDiv {
     background-color: #009C59;
     position: relative;
+    display: inline-block;
     left: 28vw;
-    top: -4vw;
 }
 .eveningDiv {
     background-color: #ffaa00;
     position: relative;
+    display: inline-block;
     left: 52vw;
-    top: -8vw;
 }
 .supriseDiv {
     background-color: #7000c6;
     position: relative;
+    display: inline-block;
     left: 76vw;
-    top: -12vw;
 }
