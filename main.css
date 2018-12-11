@@ -40,7 +40,7 @@
     position: relative;
     text-align: center;
     left: 50%;
-    transform: translate(-50%, 24vw);
+    transform: translate(-50%, -4vw);
     font-size: 20vw;
     color: white;
 }
