@@ -46,7 +46,6 @@ a:hover, a:active {
 }
 body {
     background-color: #330000;
-    position: fixed;
 }
 .snackDiv {
     background-color: #ffff00;
