@@ -53,19 +53,23 @@ body {
     background-color: #ffff00;
     position: relative;
     left: 4vw;
+    top: 0;
 }
 .delightDiv {
     background-color: #009C59;
     position: relative;
     left: 28vw;
+    top: -4vw;
 }
 .eveningDiv {
     background-color: #ffaa00;
     position: relative;
     left: 52vw;
+    top: -8vw;
 }
 .supriseDiv {
     background-color: #7000c6;
     position: relative;
     left: 76vw;
+    top: -12vw;
 }
