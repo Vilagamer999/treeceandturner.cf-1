@@ -52,22 +52,30 @@ body {
     position: relative;
     display: block;
     left: 4vw;
+    margin: 0; 
+    padding: 0;
 }
 .delightDiv {
     background-color: #009C59;
     position: relative;
     display: block;
     left: 28vw;
+    margin: 0; 
+    padding: 0;
 }
 .eveningDiv {
     background-color: #ffaa00;
     position: relative;
     display: block;
     left: 52vw;
+    margin: 0; 
+    padding: 0;
 }
 .supriseDiv {
     background-color: #7000c6;
     position: relative;
     display: block;
     left: 76vw;
+    margin: 0; 
+    padding: 0;
 }
