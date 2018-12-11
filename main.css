@@ -48,37 +48,33 @@ body {
     background-color: #330000;
 }
 .snackDiv {
-    float: left;
     background-color: #ffff00;
     position: relative;
-    display: block;
+    display: inline-block;
     left: 4vw;
     margin: 0; 
     padding: 0;
 }
 .delightDiv {
-    float: left;
     background-color: #009C59;
     position: relative;
-    display: block;
+    display: inline-block;
     left: 28vw;
     margin: 0; 
     padding: 0;
 }
 .eveningDiv {
-    float: left;
     background-color: #ffaa00;
     position: relative;
-    display: block;
+    display: inline-block;
     left: 52vw;
     margin: 0; 
     padding: 0;
 }
 .supriseDiv {
-    float: left;
     background-color: #7000c6;
     position: relative;
-    display: block;
+    display: inline-block;
     left: 76vw;
     margin: 0; 
     padding: 0;
