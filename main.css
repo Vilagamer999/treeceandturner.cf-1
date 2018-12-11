@@ -2,6 +2,9 @@
     margin-top: 0;
     padding: 0;
 }
+html {
+  scroll-behavior: smooth;
+}
 @keyframes flyin {
     from {opacity: 0.2; top: 12vw;}
     to {opacity: 1; top: 4vw;}
