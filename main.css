@@ -84,4 +84,5 @@ body {
 }
 .page {
     min-height: 100%;
+    display: block;
 }
