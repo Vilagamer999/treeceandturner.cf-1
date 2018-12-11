@@ -51,7 +51,7 @@ body {
     background-color: #ffff00;
     position: relative;
     display: inline-block;
-    left: 4vw;
+    /*left: 4vw;*/
     margin: 0; 
     padding: 0;
 }
@@ -59,7 +59,7 @@ body {
     background-color: #009C59;
     position: relative;
     display: inline-block;
-    left: 28vw;
+    /*left: 28vw;*/
     margin: 0; 
     padding: 0;
 }
@@ -67,7 +67,7 @@ body {
     background-color: #ffaa00;
     position: relative;
     display: inline-block;
-    left: 52vw;
+    /*left: 52vw;*/
     margin: 0; 
     padding: 0;
 }
@@ -75,7 +75,7 @@ body {
     background-color: #7000c6;
     position: relative;
     display: inline-block;
-    left: 76vw;
+    /*left: 76vw;*/
     margin: 0; 
     padding: 0;
 }
