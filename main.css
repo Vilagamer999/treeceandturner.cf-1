@@ -3,7 +3,7 @@
     to {opacity: 1; top: 4vw;}
 }
 .startinganimation {
-    position: fixed;
+    position: relative;
     top: 4vw;
     animation-name: flyin;
     animation-duration: 1s;
@@ -37,7 +37,7 @@ a:hover, a:active {
 }
 .title {
     display: block;
-    position: fixed;
+    position: relative;
     text-align: center;
     left: 50%;
     transform: translate(-50%, 24vw);
