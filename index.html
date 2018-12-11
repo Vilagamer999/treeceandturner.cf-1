@@ -4,7 +4,19 @@
 <html lang="en" style="scroll-behavior: smooth;">
   <head>
     <script>
-    document.title = "Treece and Turner";
+      document.title = "Treece and Turner";
+      window.onscroll = function() {scrollFunction()};
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById("myBtn").style.display = "block";
+        } else {
+          document.getElementById("myBtn").style.display = "none";
+        }
+      }
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,6 +25,7 @@
     <link rel="shortcut icon" href="favicon.ico">
   </head>
   <body>
+    <img id="scrollToTop" src="scrollToTop.png"/>
     <noscript>
       You need to enable JavaScript to use this site.
       <title>You Need Javscript To Use This Site</title>
