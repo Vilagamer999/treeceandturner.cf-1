@@ -9,7 +9,7 @@
     animation-duration: 1s;
     left: 0;
 }
-a {
+.link {
     display: block;
     height: 20vw;
     width: 20vw;
@@ -20,7 +20,7 @@ a {
     text-align: center;
  
 }
-a:hover, a:active {
+.link:hover, .link:active {
     display: block;
     height: 20vw;
     width: 20vw;
