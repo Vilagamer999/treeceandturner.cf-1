@@ -82,3 +82,6 @@ body {
 .pageContent {
     width: 100%;
 }
+.page {
+    min-height: 100%;
+}
