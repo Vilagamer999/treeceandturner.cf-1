@@ -51,21 +51,21 @@ body {
 }
 .snackDiv {
     background-color: #ffff00;
-    position: fixed;
+    position: relative;
     left: 4vw;
 }
 .delightDiv {
     background-color: #009C59;
-    position: fixed;
+    position: relative;
     left: 28vw;
 }
 .eveningDiv {
     background-color: #ffaa00;
-    position: fixed;
+    position: relative;
     left: 52vw;
 }
 .supriseDiv {
     background-color: #7000c6;
-    position: fixed;
+    position: relative;
     left: 76vw;
 }
