@@ -50,24 +50,28 @@ body {
 .snackDiv {
     background-color: #ffff00;
     position: relative;
-    display: inline-block;
+    display: block;
     left: 4vw;
+    float: left;
 }
 .delightDiv {
     background-color: #009C59;
     position: relative;
-    display: inline-block;
+    display: block;
     left: 28vw;
+    float: left;
 }
 .eveningDiv {
     background-color: #ffaa00;
     position: relative;
-    display: inline-block;
+    display: block;
     left: 52vw;
+    float: left;
 }
 .supriseDiv {
     background-color: #7000c6;
     position: relative;
-    display: inline-block;
+    display: block;
     left: 76vw;
+    float: left;
 }
