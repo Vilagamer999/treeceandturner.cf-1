@@ -10,6 +10,7 @@
     left: 0;
 }
 .link {
+    position: relative;
     display: block;
     height: 20vw;
     width: 20vw;
@@ -21,6 +22,7 @@
  
 }
 .link:hover, .link:active {
+    position: relative;
     display: block;
     height: 20vw;
     width: 20vw;
