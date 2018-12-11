@@ -44,8 +44,9 @@
     font-size: 20vw;
     color: white;
 }
-body {
-    background-color: #330000;
+html, body {
+    margin:0px;
+    padding:0px;
 }
 .snackDiv {
     background-color: #ffff00;
