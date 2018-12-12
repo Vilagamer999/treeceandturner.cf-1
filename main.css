@@ -104,39 +104,3 @@ html, body {
     margin: 0;
     padding: 0;
 }
-.divider:nth-child(1) {
-    background-image: linear-gradient(#aa0000, #ffff00);
-    background-color: #009c59;
-    width: 100vw;
-    display: block;
-    margin: 0;
-    padding: 0;
-    height: 10vh;
-}
-.divider:nth-child(2) {
-    background-image: linear-gradient(#ffff00, #009c59);
-    background-color: #009c59;
-    width: 100vw;
-    display: block;
-    margin: 0;
-    padding: 0;
-    height: 10vh;
-}
-.divider:nth-child(3) {
-    background-image: linear-gradient(#009c59, #ffaa00);
-    background-color: #009c59;
-    width: 100vw;
-    display: block;
-    margin: 0;
-    padding: 0;
-    height: 10vh;
-}
-.divider:nth-child(4) {
-    background-image: linear-gradient(#ffaa00, #70006c);
-    background-color: #009c59;
-    width: 100vw;
-    display: block;
-    margin: 0;
-    padding: 0;
-    height: 10vh;
-}
