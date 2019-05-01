@@ -66,7 +66,7 @@ html, body {
     background-color: #ff0000;
     position: relative;
     display: inline-block;
-    left: 3.5vw;
+    left: 3.25vw;
     margin: 0; 
     padding: 0;
     color: white;
@@ -75,7 +75,7 @@ html, body {
     background-color: #159fe8;
     position: relative;
     display: inline-block;
-    left: 7.5vw;
+    left: 7.25vw;
     margin: 0; 
     padding: 0;
     color: white;
@@ -87,7 +87,7 @@ html, body {
     left: 11vw;
     margin: 0; 
     padding: 0;
-    width: 16.5vw;
+    width: 16.25vw;
     height: 16vw;
     color: black;
 }
@@ -95,7 +95,7 @@ html, body {
     background-color: #dbaa12;
     position: relative;
     display: inline-block;
-    left: 15.5vw;
+    left: 15.25vw;
     margin: 0; 
     padding: 0;
     color: white;
@@ -104,7 +104,7 @@ html, body {
     background-color: #15d22a;
     position: relative;
     display: inline-block;
-    left: 19.5vw;
+    left: 19.25vw;
     margin: 0; 
     padding: 0;
     color: white;
