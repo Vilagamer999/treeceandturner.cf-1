@@ -38,8 +38,6 @@
 }
 .link:hover, .link:active {
     position: relative;
-    height: 20vw;
-    width: 20vw;
     word-wrap: break-word;
     text-decoration: none;
     color: black;
