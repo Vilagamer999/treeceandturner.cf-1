@@ -131,9 +131,3 @@ html, body {
     padding: 0;
     text-align: center;
 }
-.centeredimage {
-    display: block;
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, 0);
-}
