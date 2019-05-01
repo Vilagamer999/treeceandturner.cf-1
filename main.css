@@ -136,7 +136,9 @@ html, body {
 .centeredimage {
     display: block;
     position: relative;
+    margin: 0;
+    padding: 0;
     left: 50%;
     transform: translate(-50%, 0);
-    width: 90vw;
+    width: 90%;
 }
