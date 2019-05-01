@@ -66,7 +66,7 @@ html, body {
     background-color: #ff0000;
     position: relative;
     display: inline-block;
-    left: 1.5vw;
+    left: 2vw;
     margin: 0; 
     padding: 0;
     color: white;
@@ -75,7 +75,7 @@ html, body {
     background-color: #159fe8;
     position: relative;
     display: inline-block;
-    left: 5.5vw;
+    left: 6vw;
     margin: 0; 
     padding: 0;
     color: white;
@@ -84,7 +84,7 @@ html, body {
     background-color: #aaaaaa;
     position: relative;
     display: inline-block;
-    left: 9.5vw;
+    left: 10vw;
     margin: 0; 
     padding: 0;
     width: 16vw;
@@ -95,7 +95,7 @@ html, body {
     background-color: #dbaa12;
     position: relative;
     display: inline-block;
-    left: 13.5vw;
+    left: 14vw;
     margin: 0; 
     padding: 0;
     color: white;
@@ -104,7 +104,7 @@ html, body {
     background-color: #15d22a;
     position: relative;
     display: inline-block;
-    left: 17.5vw;
+    left: 18vw;
     margin: 0; 
     padding: 0;
     color: white;
