@@ -27,8 +27,8 @@
 }
 .link {
     position: relative;
-    height: 20vw;
-    width: 20vw;
+    height: 15vw;
+    width: 15vw;
     word-wrap: break-word;
     text-decoration: none;
     color: black;
@@ -64,35 +64,49 @@ html, body {
     margin:0px;
     padding:0px;
 }
-.snackDiv {
-    background-color: #ffff00;
+.productDiv {
+    background-color: #ff0000;
     position: relative;
     display: inline-block;
-    left: 2.5vw;
+    left: 2vw;
     margin: 0; 
     padding: 0;
+    color: white;
 }
-.delightDiv {
-    background-color: #009C59;
+.priceDiv {
+    background-color: #159fe8;
     position: relative;
     display: inline-block;
-    left: 6.5vw;
+    left: 7vw;
     margin: 0; 
     padding: 0;
+    color: white;
 }
-.eveningDiv {
-    background-color: #ffaa00;
+.peopleDiv {
+    background-color: #aaaaaa;
     position: relative;
     display: inline-block;
-    left: 10.5vw;
+    left: 12vw;
     margin: 0; 
     padding: 0;
+    width: 16vw;
+    height: 16vw;
+    color: black;
 }
-.supriseDiv {
-    background-color: #7000c6;
+.placeDiv {
+    background-color: #dbaa12;
     position: relative;
     display: inline-block;
-    left: 14.5vw;
+    left: 17vw;
+    margin: 0; 
+    padding: 0;
+    color: white;
+}
+.promotionDiv {
+    background-color: #15d22a;
+    position: relative;
+    display: inline-block;
+    left: 22vw;
     margin: 0; 
     padding: 0;
     color: white;
